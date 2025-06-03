@@ -1,0 +1,5 @@
+Model,Best Epoch,Val Loss,Val Acc (%)
+TF-IDF + LR (Baseline),-,-,81.2
+GPT (Prompt-Only),-,-,78.6
+DistilBERT,10,0.4026,87.18
+RoBERTa,8,0.3297,90.6
