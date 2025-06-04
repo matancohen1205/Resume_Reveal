@@ -7,4 +7,4 @@ Our results show that the TF-IDF baseline achieves about 81% validation accuracy
 
 
 
-![Project Flowchart](results/flowchart.png)
+![Project Flowchart](Results/FlowChart.png)
