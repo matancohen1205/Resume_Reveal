@@ -3,3 +3,8 @@ ResumaAnalyzerNLP is a project that collects and analyzes resumes job roles to a
 For model training, we fine-tune two Transformer-based classifiers (DistilBERT and RoBERTa) for 10 epochs on the labeled data. We also run generative inference with GPT-4 via OpenRouter (prompt-only) to see how well a prompt-based approach can classify seniority without additional fine-tuning.  and we save all evaluation graphs (accuracy-vs-epoch curves and confusion matrices) in the results/ folder.
 
 Our results show that the TF-IDF baseline achieves about 81% validation accuracy, GPT prompt-only achieves 78.6%, DistilBERT reaches 87.2% (best at epoch 10 with loss 0.4026), and RoBERTa leads with 90.6% (best at epoch 8 with loss 0.3297). Overall, RoBERTa delivers the strongest performance, while GPT-4 still provides surprisingly effective classification even on unstructured input.
+
+
+
+
+![Project Flowchart](results/flowchart.png)
