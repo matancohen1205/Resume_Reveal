@@ -5,6 +5,12 @@ For model training, we fine-tune two Transformer-based classifiers (DistilBERT a
 Our results show that the TF-IDF baseline achieves about 81% validation accuracy, GPT prompt-only achieves 78.6%, DistilBERT reaches 87.2% (best at epoch 10 with loss 0.4026), and RoBERTa leads with 90.6% (best at epoch 8 with loss 0.3297). Overall, RoBERTa delivers the strongest performance, while GPT-4 still provides surprisingly effective classification even on unstructured input.
 
 
+
+
+
+   ![Project Flowchart](Results/FlowChart.png)
+
+   
 ##  📈 Results Summary
 TF-IDF + LogisticRegression (baseline): 81.20%
 
@@ -24,5 +30,3 @@ RoBERTa achieves the highest seniority-classification accuracy, but GPT-4’s pr
    git clone https://github.com/matancohen1205/ResumaAnalyzerNLP.git
    cd ResumaAnalyzerNLP/SRC
 
-
-   ![Project Flowchart](Results/FlowChart.png)
