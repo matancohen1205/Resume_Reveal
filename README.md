@@ -50,7 +50,18 @@ The novelty of our approach lies in jointly leveraging structured (job title) an
  -- GPT-4 synthetic generation
 
  -- Manual filtering
+
+ ## 📊 Example
+
+```
+**Job Title:** `Business Analyst` 
+
+**Resume Snippet:** `" Summary   Senior Business Analyst with over 10 years of diverse IT experience in Project management..."` 
+
+**Predicted Label:** `Senior`
  
+```
+
 ##  📈 Results Summary
 
  | Model                        | Accuracy   | Best Epoch  | Validation Loss |
