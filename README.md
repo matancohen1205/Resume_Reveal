@@ -13,7 +13,7 @@ The novelty of our approach lies in jointly leveraging structured (job title) an
 ## 🎯 Project Goals
 **-- Data Collection:** Extract and generate resume data with job roles and corresponding seniority levels.
 
-**-- Data Annotation:** Label examples using both heuristics (job title patterns) and manual verification.
+**-- Data Annotation:** Label examples using scraping and manual verification.
 
 **-- Baseline Modeling:** Train a TF-IDF + Logistic Regression classifier.
 
@@ -105,7 +105,7 @@ The novelty of our approach lies in jointly leveraging structured (job title) an
 
 ##  ⚙️ Installation
 
-1. **Clone this repository**  
+ **Clone this repository**  
    ```bash
    git clone https://github.com/matancohen1205/Resume_Reveal.git
    cd Resume_Reveal/SRC
