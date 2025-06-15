@@ -7,7 +7,7 @@ Predict seniority level from resume text and job role.
 ##  📖 Overview
 
 Recruiters and HR systems often struggle to assess candidate seniority from free-form resumes and job descriptions, leading to slow and error-prone review processes.
-ResumaAnalyzerNLP tackles this by automating seniority classification (Junior, Mid, Senior) based on the combined analysis of resume text and job title, using a hybrid NLP pipeline that integrates rule-based heuristics, deep learning, and GPT-4. We collect and label data accordingly, train models (TF-IDF, DistilBERT, RoBERTa), and evaluate GPT-4’s prompt-only performance—achieving up to 90.6% accuracy with RoBERTa.
+Resume_Reveal tackles this by automating seniority classification (Junior, Mid, Senior) based on the combined analysis of resume text and job title, using a hybrid NLP pipeline that integrates rule-based heuristics, deep learning, and GPT-4. We collect and label data accordingly, train models (TF-IDF, DistilBERT, RoBERTa), and evaluate GPT-4’s prompt-only performance—achieving up to 90.6% accuracy with RoBERTa.
 The novelty of our approach lies in jointly leveraging structured (job title) and unstructured (resume) input, while combining fine-tuned transformer models, and zero-shot GPT-4 inference.
 
 ## 🎯 Project Goals
