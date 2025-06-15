@@ -105,7 +105,7 @@ The novelty of our approach lies in jointly leveraging structured (job title) an
 
 ##  ⚙️ Installation
 
- **Clone this repository**  
+**Clone this repository**  
    ```bash
    git clone https://github.com/matancohen1205/Resume_Reveal.git
    cd Resume_Reveal/SRC
