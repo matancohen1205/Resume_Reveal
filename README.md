@@ -61,6 +61,7 @@ The novelty of our approach lies in jointly leveraging structured (job title) an
 | RoBERTa (fine-tuned)         | **90.60%** | **Epoch 8** | **0.3297**      |
 
 **Evaluation:** Measure performance across all models using accuracy, loss, and confusion matrices.
+
 **Best Model:** RoBERTa — achieved the highest validation accuracy (90.60%) after 8 epochs of fine-tuning.
 
 ##  📊 Graphical Abstract
