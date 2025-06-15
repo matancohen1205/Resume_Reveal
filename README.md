@@ -31,10 +31,10 @@ The novelty of our approach lies in jointly leveraging structured (job title) an
            Fine-tuned for 10 epochs. Best result at epoch 10.
 
        -- RoBERTa
-           Fine-tuned for 8 epochs. Best performance across all models.
-
+           Fine-tuned for 10 epochs. Best result at epoch 8.
+           
        -- GPT-4
-          Prompt-only inference with zero-shot classification. Tested with template-based prompt structures.
+          Prompt-only inference with zero-shot classification.
 
 ## 📁 Dataset
 **File: DATA.xlsx** - 
