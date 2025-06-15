@@ -15,7 +15,7 @@ The novelty of our approach lies in jointly leveraging structured (job title) an
 
 **-- Data Annotation:** Label examples using both heuristics (job title patterns) and manual verification.
 
-**-- Baseline Modeling:** Train a TF-IDF + Logistic Regression classifier as a benchmark.
+**-- Baseline Modeling:** Train a TF-IDF + Logistic Regression classifier.
 
 **-- Transformer Fine-Tuning:** Fine-tune DistilBERT and RoBERTa for sequence classification.
 
