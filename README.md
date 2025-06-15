@@ -93,7 +93,7 @@ The novelty of our approach lies in jointly leveraging structured (job title) an
    git clone https://github.com/matancohen1205/ResumaAnalyzerNLP.git
    cd ResumaAnalyzerNLP/SRC
    
-📌 Note: For GPT-4 inference, register to OpenRouter and set your API key in the notebook.
+📌 Note: For GPT-4 inference, register to [OpenRouter](https://openrouter.ai/settings/keys) and set your API key in the notebook.
 
 ## 🤝 Team Members
 Matan Cohen
