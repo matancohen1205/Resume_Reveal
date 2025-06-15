@@ -40,7 +40,9 @@ The novelty of our approach lies in jointly leveraging structured (job title) an
 **File: DATA.xlsx** - 
 
  -- Resume (free-text)
+ 
  -- Job Title
+ 
  -- Seniority Label (Junior, Mid, Senior)
 
 **Sources:** - 
