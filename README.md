@@ -78,6 +78,8 @@ The novelty of our approach lies in jointly leveraging structured (job title) an
 ├── Results/
 │   ├── Evaluation.csv
 │   ├── FlowChart.png
+│   ├── RoBERTa_training_results.csv
+│   ├── distilBERT_training_results.csv
 │   └── evaluation_file.pdf
 │
 ├── SRC/
