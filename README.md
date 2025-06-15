@@ -26,7 +26,7 @@ The novelty of our approach lies in jointly leveraging structured (job title) an
 ## 🧠 Used Models
 ## 1. Baseline:
      -- TF-IDF + Logistic Regression
-## 2. pipeline:     
+## 2. Models & Inference:     
        -- DistilBERT
            Fine-tuned for 10 epochs. Best result at epoch 10.
 
