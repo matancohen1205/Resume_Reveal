@@ -107,8 +107,8 @@ The novelty of our approach lies in jointly leveraging structured (job title) an
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/matancohen1205/ResumaAnalyzerNLP.git
-   cd ResumaAnalyzerNLP/SRC
+   git clone https://github.com/matancohen1205/Resume_Reveal.git
+   cd Resume_Reveal/SRC
    
 📌 Note: For GPT-4 inference, register to [OpenRouter](https://openrouter.ai/settings/keys) and set your API key in the notebook.
 
