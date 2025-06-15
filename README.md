@@ -1,4 +1,4 @@
-# ResumaAnalyzerNLP
+# Resumw_Reveal
 
 **Resume Seniority Classification**  
 Predict seniority level from resume text and job role.
