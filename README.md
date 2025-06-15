@@ -72,8 +72,8 @@ The novelty of our approach lies in jointly leveraging structured (job title) an
 .
 ├── Proposal/
 │   ├── Nlp final project presentation.pdf
-│   ├── Resume reveal - Reveal seniority...
-│   └── Resume reveal FIRST_PROP_NLP...
+│   ├── Resume reveal - Reveal seniority level.pdf
+│   └── Resume reveal FIRST_PROP_NLP.pdf
 │
 ├── Results/
 │   ├── Evaluation.csv
@@ -87,7 +87,7 @@ The novelty of our approach lies in jointly leveraging structured (job title) an
 │   ├── DATA_GENERATION_AND_SCRAPING.ipynb
 │   ├── EDA+BASELINE.ipynb
 │   ├── MODELS_NOTEBOOK.ipynb
-│   └── README.md  ← You are here
+│   └── README.md  
 ```
 
 ##  ⚙️ Installation
