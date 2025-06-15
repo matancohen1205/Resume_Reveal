@@ -37,7 +37,7 @@ The novelty of our approach lies in jointly leveraging structured (job title) an
           Prompt-only inference with zero-shot classification.
 
 ## 📁 Dataset
-**File: DATA.xlsx** - 
+**File: DATA.xlsx** - (Size: 584 Resumes & Job titles)
 
  -- Resume (free-text)
  
