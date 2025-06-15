@@ -21,8 +21,6 @@ The novelty of our approach lies in jointly leveraging structured (job title) an
 
 **-- Zero-shot Inference:** Evaluate GPT-4 on prompt-based predictions without fine-tuning.
 
-**-- Evaluation:** Measure performance across all models using accuracy, loss, and confusion matrices.
-
 ## 🧠 Used Models
 ## 1. Baseline:
      -- TF-IDF + Logistic Regression
@@ -61,6 +59,8 @@ The novelty of our approach lies in jointly leveraging structured (job title) an
 | GPT-4 (prompt-only)          | 78.60%     | -           | -               |
 | DistilBERT (fine-tuned)      | 87.18%     | Epoch 10    | 0.4026          |
 | RoBERTa (fine-tuned)         | **90.60%** | **Epoch 8** | **0.3297**      |
+
+**Evaluation:** Measure performance across all models using accuracy, loss, and confusion matrices.
 
 ##  📊 Graphical Abstract
 
