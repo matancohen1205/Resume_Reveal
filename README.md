@@ -37,13 +37,13 @@ The novelty of our approach lies in jointly leveraging structured (job title) an
           Prompt-only inference with zero-shot classification. Tested with template-based prompt structures.
 
 ## 📁 Dataset
-File: DATA.xlsx
+**File: DATA.xlsx** - 
 
  -- Resume (free-text)
  -- Job Title
  -- Seniority Label (Junior, Mid, Senior)
 
-**Sources:**
+**Sources:** - 
 
  -- Web scraping
 
