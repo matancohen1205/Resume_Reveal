@@ -27,13 +27,13 @@ The novelty of our approach lies in jointly leveraging structured (job title) an
 ## 1. Baseline:
      -- TF-IDF + Logistic Regression
 ## 2. pipeline:     
-##     -- DistilBERT
+       -- DistilBERT
            Fine-tuned for 10 epochs. Best result at epoch 10.
 
-##     -- RoBERTa
+       -- RoBERTa
            Fine-tuned for 8 epochs. Best performance across all models.
 
-##     -- GPT-4
+       -- GPT-4
           Prompt-only inference with zero-shot classification. Tested with template-based prompt structures.
 
 ## 📁 Dataset
@@ -64,8 +64,10 @@ File: DATA.xlsx
 
    ![Project Flowchart](Results/FlowChart.png)
    
-##  🗂️ Repository Structure
- 
+## 📁 Repository Structure
+
+```
+.
 ├── Proposal/
 │   ├── Nlp final project presentation.pdf
 │   ├── Resume reveal - Reveal seniority...
@@ -80,9 +82,9 @@ File: DATA.xlsx
 │   ├── DATA.xlsx
 │   ├── DATA_GENERATION_AND_SCRAPING.ipynb
 │   ├── EDA+BASELINE.ipynb
-│   └── MODELS_NOTEBOOK.ipynb
-│
-└── README.md  ← You are here
+│   ├── MODELS_NOTEBOOK.ipynb
+│   └── README.md  ← You are here
+```
 
 ##  ⚙️ Installation
 
