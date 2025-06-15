@@ -69,7 +69,7 @@ The novelty of our approach lies in jointly leveraging structured (job title) an
 ## 📁 Repository Structure
 
 ```
-.
+
 ├── Proposal/
 │   ├── Nlp final project presentation.pdf
 │   ├── Resume reveal - Reveal seniority level.pdf
