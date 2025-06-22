@@ -120,7 +120,7 @@ Eden Menahem
 
 Shira Shani
 
-📌 Developed for the Natural Language Processing (NLP) course at Holon Institute of Technology (HIT)
+ 📂 Developed for the Natural Language Processing (NLP) course at Holon Institute of Technology (HIT)
 
 
 
